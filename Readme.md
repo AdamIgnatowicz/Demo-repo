@@ -1,3 +1,3 @@
 # Nagłówek zawsze po hasztagu
 
-Zmiany
+Zmiany następują kolejne zmiany
